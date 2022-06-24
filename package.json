@@ -1,0 +1,19 @@
+{
+  "name": "clightningd-client",
+  "version": "0.1.4",
+  "description": "JavaScript c-lightning client",
+  "main": "index.js",
+  "repository": "https://github.com/M0hitkumar/clightningd-client",
+  "keywords": [
+    "lightning",
+    "c-lightning",
+    "network",
+    "brocoin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/M0hitkumar/clightningd-client",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "error": "^7.2.0"
+  }
+}
